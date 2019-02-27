@@ -1,0 +1,2 @@
+2019-02-22 19:16:29.955 [main] ERROR cn.lyh.o2o.util.ImageUtil - javax.imageio.IIOException: Can't read input file!
+2019-02-22 19:20:34.591 [main] ERROR cn.lyh.o2o.util.ImageUtil - javax.imageio.IIOException: Can't read input file!
